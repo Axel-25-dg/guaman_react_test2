@@ -10,3 +10,5 @@ export default function InformacionPage() {
       </div>
   );
 }
+
+
