@@ -32,6 +32,7 @@ import { ArrowBack, ArrowForward } from "@mui/icons-material";
           setLoading(false);
         }
       };
+      
 
       load(currentPage);
     }, [currentPage]);
